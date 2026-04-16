@@ -23,7 +23,7 @@ DONATIX:AddItem("vip_status")
     :SetIcon("icon16/star.png", false)
     :SetTerm(30)
     :SetCommand("sam setrank %STEAMID% vip")
-
+```
 ⚙️ Встановлення (Клієнтська частина)
 Зареєструйте свій проєкт у веб-панелі donatix.pp.ua.
 
